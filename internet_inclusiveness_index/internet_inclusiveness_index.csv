@@ -1,0 +1,431 @@
+country,score,metric
+Sweden,89.9,overall
+Singapore,89.1,overall
+United States,86.9,overall
+Denmark,86.8,overall
+South Korea,85.9,overall
+France,85.4,overall
+United Kingdom,85.3,overall
+Chile,85.1,overall
+Poland,85.0,overall
+Canada,84.7,overall
+Japan,84.0,overall
+Germany,83.5,overall
+Spain,83.5,overall
+Netherlands,83.4,overall
+Austria,82.7,overall
+Belgium,82.6,overall
+Bulgaria,82.4,overall
+Portugal,82.3,overall
+Italy,81.1,overall
+Taiwan,81.1,overall
+Ireland,80.9,overall
+Switzerland,80.8,overall
+Hungary,80.7,overall
+Russia,80.7,overall
+Australia,80.6,overall
+Romania,80.1,overall
+Greece,79.3,overall
+Malaysia,78.7,overall
+Argentina,78.6,overall
+Estonia,78.2,overall
+Thailand,77.8,overall
+Brazil,77.6,overall
+Colombia,75.9,overall
+Ukraine,75.8,overall
+Qatar,74.5,overall
+China,74.4,overall
+UAE,74.2,overall
+Mexico,74.0,overall
+South Africa,73.9,overall
+Kuwait,73.7,overall
+Turkey,73.5,overall
+Mongolia,72.9,overall
+Vietnam,72.4,overall
+Oman,72.3,overall
+Saudi Arabia,72.3,overall
+Kazakhstan,70.9,overall
+India,69.0,overall
+Peru,68.9,overall
+Indonesia,68.0,overall
+Iran,67.6,overall
+El Salvador,67.5,overall
+Sri Lanka,66.4,overall
+Morocco,66.2,overall
+Philippines,65.7,overall
+Egypt,65.4,overall
+Nigeria,63.9,overall
+Kenya,63.4,overall
+Uzbekistan,62.8,overall
+Guatemala,62.3,overall
+Ghana,62.2,overall
+Jamaica,61.9,overall
+Bangladesh,61.3,overall
+Venezuela,61.2,overall
+Maldives,60.6,overall
+Myanmar,57.2,overall
+Algeria,55.8,overall
+Tanzania,54.6,overall
+Pakistan,54.5,overall
+Senegal,54.4,overall
+Nepal,54.3,overall
+Côte d'Ivoire,54.1,overall
+Botswana,53.3,overall
+Cambodia,53.3,overall
+Namibia,52.9,overall
+Uganda,52.0,overall
+Rwanda,51.8,overall
+Cameroon,51.2,overall
+Sudan,49.2,overall
+Ethiopia,47.0,overall
+Mozambique,46.2,overall
+Zambia,44.8,overall
+Burkina Faso,40.3,overall
+Liberia,37.2,overall
+Madagascar,37.0,overall
+Malawi,36.8,overall
+Congo (DRC),26.3,overall
+Singapore,96.5,availability
+Sweden,86.1,availability
+Denmark,85.3,availability
+Netherlands,84.4,availability
+Switzerland,84.4,availability
+South Korea,83.3,availability
+Japan,81.0,availability
+United Kingdom,80.3,availability
+Austria,80.0,availability
+United States,80.0,availability
+Bulgaria,79.7,availability
+Australia,79.3,availability
+Hungary,79.1,availability
+Belgium,78.8,availability
+Romania,78.8,availability
+Taiwan,78.7,availability
+Canada,78.2,availability
+Germany,78.1,availability
+Estonia,78.0,availability
+Spain,77.8,availability
+France,77.2,availability
+UAE,77.1,availability
+Portugal,76.3,availability
+Poland,75.8,availability
+Qatar,75.6,availability
+Thailand,74.5,availability
+Italy,74.3,availability
+Chile,74.2,availability
+Kuwait,72.6,availability
+Russia,72.3,availability
+Kazakhstan,72.1,availability
+Ireland,72.0,availability
+Argentina,71.3,availability
+Malaysia,70.8,availability
+Greece,70.7,availability
+Oman,70.5,availability
+Turkey,70.2,availability
+China,69.8,availability
+Ukraine,69.5,availability
+Saudi Arabia,69.4,availability
+Brazil,69.1,availability
+South Africa,67.7,availability
+Colombia,67.4,availability
+Mexico,67.4,availability
+Morocco,66.2,availability
+Philippines,64.6,availability
+Iran,63.8,availability
+Maldives,63.6,availability
+Indonesia,62.2,availability
+Mongolia,62.1,availability
+Jamaica,62.0,availability
+Vietnam,61.2,availability
+Peru,60.1,availability
+Egypt,59.8,availability
+El Salvador,59.8,availability
+Guatemala,59.3,availability
+Sri Lanka,58.8,availability
+Uzbekistan,57.4,availability
+Venezuela,57.0,availability
+Ghana,55.7,availability
+Algeria,55.6,availability
+India,55.4,availability
+Bangladesh,53.6,availability
+Kenya,52.7,availability
+Cambodia,50.8,availability
+Botswana,48.6,availability
+Nepal,47.3,availability
+Côte d'Ivoire,47.1,availability
+Senegal,46.6,availability
+Myanmar,45.1,availability
+Nigeria,44.8,availability
+Namibia,43.3,availability
+Rwanda,40.5,availability
+Cameroon,39.9,availability
+Tanzania,36.5,availability
+Sudan,35.9,availability
+Pakistan,35.8,availability
+Uganda,34.0,availability
+Ethiopia,33.4,availability
+Zambia,30.9,availability
+Madagascar,28.5,availability
+Mozambique,26.8,availability
+Malawi,21.9,availability
+Burkina Faso,21.4,availability
+Liberia,18.7,availability
+Congo (DRC),12.6,availability
+Canada,98.8,affordability
+United States,98.7,affordability
+Sweden,96.5,affordability
+United Kingdom,96.2,affordability
+France,96.1,affordability
+Chile,94.0,affordability
+Poland,92.7,affordability
+Denmark,92.4,affordability
+Russia,91.2,affordability
+Mongolia,90.7,affordability
+Brazil,90.0,affordability
+South Korea,89.9,affordability
+Ireland,89.5,affordability
+Japan,89.3,affordability
+Spain,88.7,affordability
+Germany,88.5,affordability
+Nigeria,87.8,affordability
+Portugal,87.8,affordability
+Italy,87.3,affordability
+Greece,87.2,affordability
+Argentina,86.4,affordability
+Hungary,86.3,affordability
+Romania,86.1,affordability
+Kuwait,85.5,affordability
+South Africa,85.5,affordability
+Colombia,84.8,affordability
+Thailand,84.6,affordability
+Australia,84.4,affordability
+Bulgaria,83.9,affordability
+Singapore,83.8,affordability
+Netherlands,83.0,affordability
+Belgium,82.9,affordability
+Austria,81.3,affordability
+Taiwan,81.2,affordability
+Ukraine,81.1,affordability
+Malaysia,79.3,affordability
+Switzerland,78.4,affordability
+El Salvador,77.5,affordability
+India,77.2,affordability
+Vietnam,76.7,affordability
+Indonesia,76.2,affordability
+Sri Lanka,73.9,affordability
+Pakistan,73.7,affordability
+Estonia,73.5,affordability
+China,73.1,affordability
+Peru,72.8,affordability
+Kazakhstan,72.5,affordability
+Saudi Arabia,72.4,affordability
+Mexico,72.3,affordability
+Qatar,70.9,affordability
+Egypt,70.8,affordability
+Turkey,70.7,affordability
+UAE,69.9,affordability
+Algeria,69.4,affordability
+Guatemala,68.6,affordability
+Venezuela,68.1,affordability
+Bangladesh,67.1,affordability
+Tanzania,67.1,affordability
+Morocco,67.0,affordability
+Oman,67.0,affordability
+Ghana,66.7,affordability
+Maldives,65.3,affordability
+Mozambique,65.3,affordability
+Sudan,64.8,affordability
+Côte d'Ivoire,64.1,affordability
+Kenya,64.0,affordability
+Uzbekistan,63.2,affordability
+Cambodia,62.2,affordability
+Myanmar,62.1,affordability
+Senegal,62.0,affordability
+Iran,61.9,affordability
+Philippines,61.9,affordability
+Cameroon,61.5,affordability
+Botswana,61.1,affordability
+Namibia,60.2,affordability
+Jamaica,58.2,affordability
+Rwanda,55.2,affordability
+Ethiopia,54.5,affordability
+Uganda,54.3,affordability
+Nepal,54.1,affordability
+Zambia,51.0,affordability
+Burkina Faso,45.2,affordability
+Liberia,42.5,affordability
+Madagascar,35.7,affordability
+Malawi,35.7,affordability
+Congo (DRC),13.8,affordability
+Poland,92.9,relevance
+Chile,92.8,relevance
+Bulgaria,92.7,relevance
+South Korea,91.8,relevance
+Sweden,91.1,relevance
+Austria,91.0,relevance
+Russia,91.0,relevance
+Denmark,90.8,relevance
+Greece,90.7,relevance
+France,90.6,relevance
+Italy,90.5,relevance
+Taiwan,90.3,relevance
+Vietnam,90.0,relevance
+Belgium,89.8,relevance
+Germany,89.7,relevance
+Malaysia,88.8,relevance
+United States,88.4,relevance
+Japan,88.3,relevance
+Estonia,88.2,relevance
+Spain,88.2,relevance
+Ukraine,88.0,relevance
+Turkey,87.6,relevance
+Singapore,86.6,relevance
+Portugal,86.5,relevance
+Canada,86.4,relevance
+Ireland,85.9,relevance
+Netherlands,85.8,relevance
+Brazil,85.6,relevance
+Mexico,85.2,relevance
+Oman,83.4,relevance
+China,83.2,relevance
+United Kingdom,82.4,relevance
+Iran,82.2,relevance
+Argentina,82.0,relevance
+Kenya,81.4,relevance
+Australia,80.9,relevance
+India,80.4,relevance
+Mongolia,79.7,relevance
+Peru,79.7,relevance
+Uganda,79.4,relevance
+Switzerland,79.2,relevance
+Saudi Arabia,79.0,relevance
+Romania,78.2,relevance
+Colombia,77.4,relevance
+Myanmar,77.2,relevance
+UAE,77.2,relevance
+Hungary,77.1,relevance
+El Salvador,76.8,relevance
+Thailand,75.2,relevance
+Sri Lanka,75.1,relevance
+Egypt,74.2,relevance
+Uzbekistan,74.0,relevance
+Qatar,73.5,relevance
+Philippines,72.5,relevance
+Morocco,69.5,relevance
+Jamaica,69.1,relevance
+Nigeria,67.8,relevance
+Tanzania,67.7,relevance
+Namibia,67.1,relevance
+South Africa,67.1,relevance
+Kuwait,67.0,relevance
+Indonesia,66.8,relevance
+Venezuela,66.7,relevance
+Burkina Faso,66.6,relevance
+Ghana,65.6,relevance
+Congo (DRC),65.3,relevance
+Bangladesh,65.0,relevance
+Rwanda,64.7,relevance
+Cameroon,64.4,relevance
+Pakistan,63.9,relevance
+Guatemala,63.7,relevance
+Liberia,63.6,relevance
+Kazakhstan,63.3,relevance
+Nepal,62.4,relevance
+Mozambique,62.3,relevance
+Ethiopia,61.7,relevance
+Zambia,61.4,relevance
+Côte d'Ivoire,60.5,relevance
+Malawi,59.4,relevance
+Maldives,59.3,relevance
+Sudan,58.2,relevance
+Senegal,56.4,relevance
+Madagascar,55.9,relevance
+Cambodia,52.4,relevance
+Botswana,49.4,relevance
+Algeria,46.2,relevance
+Malaysia,87.7,readiness
+Chile,87.0,readiness
+Mexico,83.2,readiness
+Belgium,83.0,readiness
+Sweden,83.0,readiness
+Qatar,82.7,readiness
+Poland,82.3,readiness
+Portugal,81.7,readiness
+Austria,81.5,readiness
+Spain,81.5,readiness
+Ireland,80.5,readiness
+Singapore,80.2,readiness
+Colombia,80.0,readiness
+China,78.9,readiness
+United Kingdom,78.8,readiness
+Argentina,78.0,readiness
+South Africa,77.7,readiness
+Hungary,77.4,readiness
+Germany,77.3,readiness
+Switzerland,77.3,readiness
+United States,76.5,readiness
+Kazakhstan,76.4,readiness
+India,76.2,readiness
+Netherlands,76.2,readiness
+France,76.1,readiness
+Thailand,75.2,readiness
+Estonia,73.6,readiness
+Australia,73.4,readiness
+Oman,73.4,readiness
+South Korea,72.6,readiness
+Japan,72.1,readiness
+Taiwan,72.0,readiness
+Italy,71.1,readiness
+Peru,71.1,readiness
+Iran,70.9,readiness
+Romania,70.9,readiness
+Saudi Arabia,70.4,readiness
+Indonesia,69.4,readiness
+UAE,69.3,readiness
+Vietnam,69.3,readiness
+Ghana,68.5,readiness
+Kenya,68.5,readiness
+Philippines,68.2,readiness
+Bulgaria,67.8,readiness
+Denmark,67.6,readiness
+Turkey,67.5,readiness
+Bangladesh,67.3,readiness
+Nepal,67.2,readiness
+Greece,66.9,readiness
+Canada,65.0,readiness
+Tanzania,63.8,readiness
+Russia,62.1,readiness
+Uganda,62.1,readiness
+Rwanda,61.2,readiness
+Nigeria,60.9,readiness
+Ukraine,60.7,readiness
+Uzbekistan,60.3,readiness
+Senegal,58.2,readiness
+Brazil,58.1,readiness
+Morocco,57.8,readiness
+Jamaica,57.7,readiness
+Sri Lanka,56.9,readiness
+Botswana,56.1,readiness
+Kuwait,55.6,readiness
+Egypt,54.3,readiness
+Malawi,54.2,readiness
+Guatemala,53.1,readiness
+Pakistan,52.6,readiness
+Myanmar,50.9,readiness
+El Salvador,49.8,readiness
+Ethiopia,49.5,readiness
+Mongolia,49.2,readiness
+Zambia,48.9,readiness
+Burkina Faso,48.0,readiness
+Venezuela,46.9,readiness
+Liberia,42.5,readiness
+Namibia,41.5,readiness
+Congo (DRC),40.5,readiness
+Cameroon,39.4,readiness
+Côte d'Ivoire,39.1,readiness
+Cambodia,38.0,readiness
+Sudan,37.4,readiness
+Madagascar,37.3,readiness
+Maldives,37.3,readiness
+Algeria,35.0,readiness
+Mozambique,34.7,readiness

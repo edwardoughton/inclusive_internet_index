@@ -1,0 +1,87 @@
+country,score,metric,population
+singapore,96.5,availability,5535262
+sweden,86.1,availability,9763565
+denmark,85.3,availability,5688695
+netherlands,84.4,availability,16938499
+switzerland,84.4,availability,8319769
+south korea,83.3,availability,50593662
+japan,81.0,availability,127974958
+united kingdom,80.3,availability,65397080
+austria,80.0,availability,8678657
+united states,80.0,availability,319929162
+bulgaria,79.7,availability,7177396
+australia,79.3,availability,23799556
+hungary,79.1,availability,9783925
+belgium,78.8,availability,11287940
+romania,78.8,availability,19876621
+taiwan,78.7,availability,23485755
+canada,78.2,availability,35949709
+germany,78.1,availability,81707789
+estonia,78.0,availability,1315321
+spain,77.8,availability,46397664
+france,77.2,availability,64457201
+uae,77.1,availability,9154302
+portugal,76.3,availability,10418473
+poland,75.8,availability,38265226
+qatar,75.6,availability,2481539
+thailand,74.5,availability,68657600
+italy,74.3,availability,59504212
+chile,74.2,availability,17762681
+kuwait,72.6,availability,3935794
+russia,72.3,availability,143888004
+kazakhstan,72.1,availability,17749648
+ireland,72.0,availability,4700107
+argentina,71.3,availability,43417765
+malaysia,70.8,availability,30723155
+greece,70.7,availability,11217800
+oman,70.5,availability,4199810
+turkey,70.2,availability,78271472
+china,69.8,availability,1397028553
+ukraine,69.5,availability,44657704
+saudi arabia,69.4,availability,31557144
+brazil,69.1,availability,205962108
+south africa,67.7,availability,55291225
+colombia,67.4,availability,48228697
+mexico,67.4,availability,125890949
+morocco,66.2,availability,34803322
+philippines,64.6,availability,101716359
+iran,63.8,availability,79360487
+maldives,63.6,availability,418403
+indonesia,62.2,availability,258162113
+mongolia,62.1,availability,2976877
+jamaica,62.0,availability,2871934
+vietnam,61.2,availability,93571567
+peru,60.1,availability,31376671
+egypt,59.8,availability,93778172
+el salvador,59.8,availability,6312478
+guatemala,59.3,availability,16252429
+sri lanka,58.8,availability,20714040
+uzbekistan,57.4,availability,30976021
+venezuela,57.0,availability,31155134
+ghana,55.7,availability,27582821
+algeria,55.6,availability,39871528
+india,55.4,availability,1309053980
+bangladesh,53.6,availability,161200886
+kenya,52.7,availability,47236259
+cambodia,50.8,availability,15517635
+botswana,48.6,availability,2209197
+nepal,47.3,availability,28656282
+côte d'ivoire,47.1,availability,23108472
+senegal,46.6,availability,14976994
+myanmar,45.1,availability,52403669
+nigeria,44.8,availability,181181744
+namibia,43.3,availability,2425561
+rwanda,40.5,availability,11629553
+cameroon,39.9,availability,22834522
+tanzania,36.5,availability,53879957
+sudan,35.9,availability,38647803
+pakistan,35.8,availability,189380513
+uganda,34.0,availability,40144870
+ethiopia,33.4,availability,99873033
+zambia,30.9,availability,16100587
+madagascar,28.5,availability,24234088
+mozambique,26.8,availability,28010691
+malawi,21.9,availability,17573607
+burkina faso,21.4,availability,18110624
+liberia,18.7,availability,4499621
+congo (drc),12.6,availability,4995648
